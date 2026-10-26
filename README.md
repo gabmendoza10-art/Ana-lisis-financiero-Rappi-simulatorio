@@ -19,7 +19,7 @@ El equipo directivo necesitaba evaluar el desempeño real del modelo de suscripc
   3. Construcción del embudo de conversión y puntos de fuga (SQL).
   4. Matrices de retención por cohortes (SQL).
   5. Evaluación estadística de experimentos A/B (Python / SciPy).
-* `dashboards/` → Archivo `.pbix` del Dashboard ejecutivo en Power BI.
+* `dashboards/` → Archivo `Análisis financiero y de retención.pbix` del Dashboard ejecutivo en Power BI.
 * Archivo de visualización PDF Análisis financiero y de retención.pdf
   
 ## Herramientas y Tecnologías Utilizadas
