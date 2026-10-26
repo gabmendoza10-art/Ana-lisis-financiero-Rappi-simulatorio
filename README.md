@@ -13,7 +13,7 @@ El equipo directivo necesitaba evaluar el desempeño real del modelo de suscripc
 * ¿Los cambios implementados en la plataforma generan un impacto real (A/B Testing)?
 
 ## Contenido del Repositorio
-* `rappiplus_analysis.ipynb` → Notebook principal que documenta todo el proceso: 
+* `Análisis financiero y de retención Simulator.ipynb` → Notebook principal que documenta todo el proceso: 
   1. Limpieza y validación de datos (Python).
   2. Cálculo de KPIs financieros como Revenue, Costos y Profit (Python / SQL).
   3. Construcción del embudo de conversión y puntos de fuga (SQL).
